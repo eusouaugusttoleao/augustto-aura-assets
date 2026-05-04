@@ -13,6 +13,13 @@
 ## Decisions log
 - 2026-05-04: Página do cirurgião capilar ficará em `mentoria-cirurgiao-capilar/` para isolar do projeto Aura.
 
+## Squads created
+- **hormozi-squad** (2026-05-04) — sales copy / offer design. Cloned mind: Alex Hormozi.
+  - Agents: hormozi-chief, hormozi-offer-architect, hormozi-copy-surgeon
+  - Config: `squads/hormozi-squad/config.yaml`
+  - First deliverable: diagnóstico + reescrita da página *O Fim da Tirania das Tendências* (R$29) em `mentoria-cirurgiao-capilar/copy/`.
+
 ## Pending
-- Definir squad de domínio (cirurgia capilar / saúde / marketing médico) com `*create-squad`.
-- Coletar referências do aluno (público-alvo, posicionamento, voice).
+- Validar com Matheus os placeholders [CONFIRMAR] em `pagina-evento-v1-hormozi.md` (testemunhos, número de alunos, vagas, datas).
+- Coletar dados de prova (3–5 alunos com cifra antes/depois).
+- Considerar squad complementar: visagismo / branding pessoal pro Matheus.
