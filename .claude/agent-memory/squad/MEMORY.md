@@ -6,7 +6,7 @@
 - **Cliente**: aluno de mentoria, cirurgião capilar (landing/página em construção).
 
 ## Squad status
-- Activated on 2026-05-04 from SynkraAI/aiox-core@main.
+- Activated on 2026-05-04 from eusouaugusttoleao/aiox-core@AIOSSQUAD-AURA-MAI2026 (fork de SynkraAI/aiox-core; agentes byte-idênticos a upstream main nesta data).
 - Installed agents: `squad`, `squad-chief`, `oalanicolas`, `pedro-valerio`, `sop-extractor`.
 - Workflows directory `squads/squad-creator/workflows/` is empty (template not pulled). Squad agent should fall back to internal heuristics or request creation before referencing wf-*.yaml files.
 
